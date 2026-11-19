@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack – Smart Student Management System",
+  "description": "Smart student management dashboard with attendance tracking, assignments, grading, AI Academic Assistant, and Prompt Engineering Lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
